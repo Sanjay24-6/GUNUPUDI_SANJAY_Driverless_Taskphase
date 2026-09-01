@@ -11,3 +11,4 @@ for i in l1: #accessing string in list
         else:
             d1[j]=i.count(j) #creating/starting count
 print(d1)
+#practicing git
